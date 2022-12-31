@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on **my skills**
 - 🌱 I’m currently learning **frontend web development with html/css/javascript**
-- 💬 Ask me about **anything**
-
 
 
 
